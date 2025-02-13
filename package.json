@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/portfolio-js-goit-team10/",
+    "build": "vite build --base=/js_112_graudu12/",
     "preview": "vite preview"
   },
   "devDependencies": {
